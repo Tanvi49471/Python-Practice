@@ -192,6 +192,8 @@ It is designed as a practical lab exercise for cloud computing students to pract
 
 ### 📝 User Registration
 
+### 📝 User Registration
+
 ![User Registration](./screenshots/ss2.jpeg)
 
 ### 🔐 User Login
@@ -214,7 +216,9 @@ It is designed as a practical lab exercise for cloud computing students to pract
 
 ![Administration Panel](./screenshots/ss8.jpeg)
 
----
+### 🗄️ MySQL Database Output
+
+![MySQL Database Output](./screenshots/screenshots/db.jpeg)
 
 ## 🗄️ MySQL Database Setup & SQL Queries
 
