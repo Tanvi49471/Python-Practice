@@ -183,6 +183,7 @@ It is designed as a practical lab exercise for cloud computing students to pract
 ---
 
 ## 📸 Project Screenshots
+## 📸 Project Screenshots
 
 ### 🏠 Home Page
 
@@ -199,6 +200,18 @@ It is designed as a practical lab exercise for cloud computing students to pract
 ### 📊 User Dashboard
 
 ![User Dashboard](./screenshots/ss4.jpeg)
+
+### 🔑 Admin Login Page
+
+![Admin Login Page](./screenshots/ss6.jpeg)
+
+### 🛠️ Admin Dashboard
+
+![Admin Dashboard](./screenshots/ss7.jpeg)
+
+### ⚙️ Administration Panel
+
+![Administration Panel](./screenshots/ss8.jpeg)
 
 ---
 
